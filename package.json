@@ -1,0 +1,11 @@
+{
+  "name": "accesslibre",
+  "version": "1.0.0",
+  "description": "Projet d'apprentissage en ligne tous les contenu seront accessible gratuitement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabeta Soro",
+  "license": "ISC"
+}
